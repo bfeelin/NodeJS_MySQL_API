@@ -1,0 +1,1 @@
+This API uses NodeJS, Express, & MySQL and contains CRUD controllers for a contact. It could be used as a starter template to expand on.
